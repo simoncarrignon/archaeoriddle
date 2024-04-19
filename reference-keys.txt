@@ -9,7 +9,8 @@ settlements-position
 network-site-size-and-climate-deprecated
 population-growth-on-multiple-sites
 environmental-resources
-initial-sites-and-size
+initializing-site-size-and-culture
+manual-selection
 record-formation
 theoretical-model
 implementation
@@ -27,4 +28,3 @@ final-choice-and-simulation
 generate-archaeological-remaind-and-squares
 using-sites-size-to-generate-deposite
 split-environment-in-a-grid
-empty
